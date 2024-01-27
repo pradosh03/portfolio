@@ -30,6 +30,7 @@
 ::before,
 ::before {
   box-sizing: border-box;
+  color: var(--secondary-color);
 }
 html {
   scroll-behavior: smooth;
